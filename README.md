@@ -4,7 +4,7 @@
 
 This is the code repository for [Splunk 7.x Quick Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/splunk-7x-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789531091 ), published by Packt.
 
-**Gain business data insights from operational intelligence	**
+**Gain business data insights from operational intelligence**
 
 ## What is this book about?
 Splunk is a leading platform and solution for collecting, searching, and extracting value from ever increasing amounts of big data - and big data is eating the world! This book covers all the crucial Splunk topics and gives you the information and examples to get the immediate job done. You will find enough insights to support further research and use Splunk to suit any business environment or situation.
