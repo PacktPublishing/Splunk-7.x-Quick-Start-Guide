@@ -40,7 +40,7 @@ This book is intended for experienced IT personnel who are just getting started 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/9781789531091_ColorImages.pdf).
 
 ### Related products
-*  [[Packt]](https://india.packtpub.com/in/big-data-and-business-intelligence/splunk-operational-intelligence-cookbook?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/9781849697842)
+* Splunk Operational Intelligence Cookbook [[Packt]](https://india.packtpub.com/in/big-data-and-business-intelligence/splunk-operational-intelligence-cookbook?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/9781849697842)
 
 * Implementing Splunk 7 - Third Edition [[Packt]](https://www2.packtpub.com/big-data-and-business-intelligence/implementing-splunk-7-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788836289 ) [[Amazon]](https://www.amazon.com/dp/9781788836289)
 
