@@ -10,15 +10,15 @@ This is the code repository for [Splunk 7.x Quick Start Guide](https://www.packt
 Splunk is a leading platform and solution for collecting, searching, and extracting value from ever increasing amounts of big data - and big data is eating the world! This book covers all the crucial Splunk topics and gives you the information and examples to get the immediate job done. You will find enough insights to support further research and use Splunk to suit any business environment or situation.
 
 This book covers the following exciting features:
-Design and implement a complex Splunk Enterprise solution 
-Configure your Splunk environment to get machine data in and indexed 
-Build searches to get and format data for analysis and visualization 
-Build reports, dashboards, and alerts to deliver critical insights 
-Create knowledge objects to enhance the value of your data 
-Install Splunk apps to provide focused views into key technologies 
-Monitor, troubleshoot, and manage your Splunk environment 
+* Design and implement a complex Splunk Enterprise solution 
+* Configure your Splunk environment to get machine data in and indexed 
+* Build searches to get and format data for analysis and visualization 
+* Build reports, dashboards, and alerts to deliver critical insights 
+* Create knowledge objects to enhance the value of your data 
+* Install Splunk apps to provide focused views into key technologies 
+* Monitor, troubleshoot, and manage your Splunk environment 
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/9781789531091) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789531098) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
@@ -40,9 +40,9 @@ This book is intended for experienced IT personnel who are just getting started 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/9781789531091_ColorImages.pdf).
 
 ### Related products
-* Splunk Operational Intelligence Cookbook [[Packt]](https://india.packtpub.com/in/big-data-and-business-intelligence/splunk-operational-intelligence-cookbook?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/9781849697842)
+* Splunk Operational Intelligence Cookbook [[Packt]](https://india.packtpub.com/in/big-data-and-business-intelligence/splunk-operational-intelligence-cookbook?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1788835239)
 
-* Implementing Splunk 7 - Third Edition [[Packt]](https://www2.packtpub.com/big-data-and-business-intelligence/implementing-splunk-7-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788836289 ) [[Amazon]](https://www.amazon.com/dp/9781788836289)
+* Implementing Splunk 7 - Third Edition [[Packt]](https://www2.packtpub.com/big-data-and-business-intelligence/implementing-splunk-7-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788836289 ) [[Amazon]](https://www.amazon.com/dp/1788836286)
 
 
 ## Get to Know the Author
