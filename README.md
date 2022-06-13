@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B11392?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Splunk 7.x Quick Start Guide
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/splunk-7x-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789531091 "><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B11392.png" alt="Splunk 7.x Quick Start Guide" height="256px" align="right"></a>
